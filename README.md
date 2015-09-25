@@ -1,4 +1,4 @@
 # ServerAgent
 ServerAgent
 
-main in "startserveragent.java"
+main in "startserveragent.java", using egit
